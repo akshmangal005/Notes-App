@@ -2,6 +2,6 @@
 
 An app you can use to take notes. Supports persistent storage
 
-![Demo](https://github.com/Priyansh19077/Notes-App/blob/master/demo/1.gif)
+![Demo](https://drive.google.com/file/d/1iuLneUJAUEMZVLcC_7UDdU3L1qEq8XNI/view?usp=drive_link)
 
 
